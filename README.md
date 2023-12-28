@@ -155,7 +155,7 @@ sub ::sub(int a,int b){
         a1 . display ();
             }
 
-// PONTER
+// PONTER//
 
  #include <iostream>
   using namespace std;
